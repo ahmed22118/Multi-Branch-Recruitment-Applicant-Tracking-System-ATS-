@@ -61,6 +61,7 @@ Frontend `.env`:
 
 ```env
 VITE_API_URL=http://localhost:5000/api
+https://multi-branch-recruitment-applicant-one.vercel.app/
 ```
 
 ## Demo Accounts After Seeding
