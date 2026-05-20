@@ -79,7 +79,7 @@ https://multi-branch-recruitment-applicant-one.vercel.app/
 
 Add the live deployment URL here before submission:
 
-- Frontend URL: `TBA`
+- Frontend URL: `https://multi-branch-recruitment-applicant-one.vercel.app/`
 - Backend URL: `TBA`
 
 ## Deliverables Included
