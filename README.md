@@ -76,7 +76,6 @@ VITE_API_URL=http://localhost:5000/api
 - Database: MongoDB Atlas M0 cluster
 - Files: Cloudinary
 
-Add the live deployment URL here before submission:
 
 - Frontend URL: `https://multi-branch-recruitment-applicant-one.vercel.app/`
 - Backend URL: `https://multi-branch-recruitment-applicant-v42a.onrender.com`
